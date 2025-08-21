@@ -1,0 +1,10 @@
+{
+  sources [
+    {
+      id mangaworld,
+      name MangaWorld,
+      version 0.0.1,
+      url 0.8MangaWorld
+    }
+  ]
+}
