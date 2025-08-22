@@ -1,5 +1,5 @@
 {
-  "buildTime":"2025-08-22T17:55:27.741Z",
+  "buildTime": "2025-08-22T17:55:27.741Z",
   "sources": [
     {
       "id": "MangaWorld",
@@ -25,5 +25,9 @@
       "websiteBaseURL": "https://mangaworld.cx",
       "intents": 21
     }
-  ]
+  ],
+  "builtWith": {
+    "toolchain": "0.8.7",
+    "types": "0.8.7"
+  }
 }
