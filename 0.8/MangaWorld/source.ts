@@ -19,7 +19,7 @@ export const MangaWorldInfo: SourceInfo = {
   version: '0.0.1',
   name: 'MangaWorld',
   description: 'Estensione per leggere manga da mangaworld.cx',
-  author: 'Giuseppe',
+  author: '',
   language: Language.Italian,
   contentRating: ContentRating.Mature,
   websiteBaseURL: 'https://www.mangaworld.cx',

@@ -4,9 +4,9 @@ exports.MangaWorld = exports.MangaWorldInfo = void 0;
 const types_1 = require("@paperback/types");
 exports.MangaWorldInfo = {
     version: '0.0.1',
-    name: 'MangaWorld',
+    name: 'MangaWorld_JS',
     description: 'Estensione per leggere manga da mangaworld.cx',
-    author: 'Giuseppe',
+    author: '',
     language: types_1.Language.Italian,
     contentRating: types_1.ContentRating.Mature,
     websiteBaseURL: 'https://www.mangaworld.cx',

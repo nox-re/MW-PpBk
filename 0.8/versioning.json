@@ -1,10 +1,28 @@
 {
-  sources [
+  "sources": [
     {
-      id mangaworld,
-      name MangaWorld,
-      version 0.0.1,
-      url 0.8MangaWorld
+      "id": "MangaWorld",
+      "name": "Manga World",
+      "author": "Io",
+      "desc": "Extension that pulls manga from mangaworld.cx.",
+      "website": "https://github.com/",
+      "contentRating": "ADULT",
+      "version": "0.0.1",
+      "icon": "icon.png",
+      "websiteBaseURL": "https://mangaworld.cx",
+      "intents": 21
+    },
+    {
+      "id": "MangaWorld_JS",
+      "name": "Manga World",
+      "author": "Io",
+      "desc": "Extension that pulls manga from mangaworld.cx.",
+      "website": "https://github.com/",
+      "contentRating": "ADULT",
+      "version": "0.0.1",
+      "icon": "icon.png",
+      "websiteBaseURL": "https://mangaworld.cx",
+      "intents": 21
     }
   ]
 }
